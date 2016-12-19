@@ -8,6 +8,8 @@ CPU Schedualing Algorithms Simulator
 <li> Round Robin </li>
 <li> Priority Non-Preemptive </li>
 <li> Priority Preemptive </li>
+<li> Modulus Based Round Robin </li>
+<li> Adaptive Round Robin </li>
 </ol>
 </br>
 <h5> <a href="http://goo.gl/aUuI2Z"> Complete Java project </a> </h5>
