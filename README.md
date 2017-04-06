@@ -1,6 +1,6 @@
 CPU Schedualing Algorithms Simulator
 ====================================
-<h5>Track 6 CPU schedualing algorithms step by step.</h5>
+<h5>Modified the original tool to implement various versions of dynamic round robin algorithms and compare them.</h5>
 <ol>
 <li> First Come First Served </li>
 <li> Shortest Job First </li>
@@ -12,6 +12,4 @@ CPU Schedualing Algorithms Simulator
 <li> Adaptive Round Robin </li>
 </ol>
 </br>
-<h5> <a href="http://goo.gl/aUuI2Z"> Complete Java project </a> </h5>
-<h5> <a href="http://goo.gl/Y3Xo6N"> Youtube video </a> </h5>
-<h5> <a href="http://goo.gl/xYM5xM"> jar version </a> </h5>
+<p>Implemented RR, MBRR and ARR which are relevant to the project</p>
